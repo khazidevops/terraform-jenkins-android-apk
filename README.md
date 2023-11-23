@@ -2,7 +2,8 @@
 
 Terraform: Provisioning an EC2 Instance with Jenkins, Running a SonarQube Container & Trivy
 
-![Publish Android APK to App Center-2](https://github.com/khazidevops/terraform-jenkins-android-apk/assets/150345653/3240315f-3419-4d11-ad67-0834ed9b3818)
+![Publish Android APK to App Center-3](https://github.com/khazidevops/terraform-jenkins-android-apk/assets/150345653/a2746016-da92-424f-86a5-4164f8f6e6b6)
+
 
 
 
